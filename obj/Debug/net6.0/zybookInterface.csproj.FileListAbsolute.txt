@@ -1,0 +1,15 @@
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\bin\Debug\net6.0\zybookInterface.exe
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\bin\Debug\net6.0\zybookInterface.deps.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\bin\Debug\net6.0\zybookInterface.runtimeconfig.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\bin\Debug\net6.0\zybookInterface.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\bin\Debug\net6.0\zybookInterface.pdb
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.csproj.AssemblyReference.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.AssemblyInfoInputs.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.AssemblyInfo.cs
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.csproj.CoreCompileInputs.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\refint\zybookInterface.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.pdb
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\zybookInterface.genruntimeconfig.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\zybookInterface\zybookInterface\obj\Debug\net6.0\ref\zybookInterface.dll
